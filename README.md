@@ -1,5 +1,11 @@
-# FaceDetection
-Implemented a face detection algorithm which detects human frontal face .
-Developed a skin color based classifier emphasizing skin likelihood region.
-Remodeled the project to ensure robustness by incorporating further features like detection of eyes, nose and
-computation of the cross correlation with a template face.
+Requirements for the project.
+
+1) Matlab
+
+How to run the code.
+
+-> Clone the repository in your local machine.
+-> Open the file with .m extension
+-> Call the function "Rohit_Mudaliar(input_image)" from the console.
+
+Note - the argument input_image should be an image on which face detection algorithm will work.
